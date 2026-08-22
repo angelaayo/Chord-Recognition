@@ -1,0 +1,15 @@
+# Audio datasets
+data/
+*.wav
+*.mp3
+*.flac
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
