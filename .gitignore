@@ -9,7 +9,9 @@ __pycache__/
 *.pyc
 
 # Virtual environment
+venv/
 .venv/
+chord-recognition-env/
 
 # Jupyter
 .ipynb_checkpoints/
