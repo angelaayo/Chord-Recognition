@@ -12,6 +12,6 @@ __pycache__/
 venv/
 .venv/
 chord-recognition-env/
-
+wsl2-env/
 # Jupyter
 .ipynb_checkpoints/
